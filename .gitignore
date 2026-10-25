@@ -1,0 +1,31 @@
+# ==== 抓取脚本与中间产物 ====
+_scripts/
+_raw/
+
+# ==== 去水时剔除的文件（保留在本地，不进仓库）====
+_removed/
+
+# ==== 系统与编辑器 ====
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.iml
+
+# ==== 日志与临时文件 ====
+*.log
+*.tmp
+*.bak
+~$*
+
+# ==== Node / Python（如后续加工具链）====
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env

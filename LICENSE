@@ -1,0 +1,86 @@
+MIT License
+
+Copyright (c) 2026 zihan.xu
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## 关于本仓库收录的文献内容
+
+本仓库的 MIT 许可**仅适用于本项目自身的整理工作**，包括：
+
+- `INDEX.md` 全量索引及各条目的一句中文摘要与主题标签
+- `README.md` 的分类体系、导航与阅读建议
+- 目录结构、命名规范、元数据头等整理性劳动
+
+收录的**文献原文本身不属于本许可范围**，其权利状态如下：
+
+### 1. Project Gutenberg（gutenberg.org）
+
+绝大多数西方文献（约 351 本）来自 Project Gutenberg。这些作品在美国已进入公有领域
+（主要为 1929 年前出版），Project Gutenberg 的商标与域名归 Project Gutenberg
+Literary Archive Foundation 所有，但其公有领域电子文本可自由使用、复制与再分发。
+
+Project Gutenberg 的完整许可条款见：
+https://www.gutenberg.org/policy/terms_of_use.html
+
+### 2. Project Gutenberg Australia（gutenberg.net.au）
+
+以下 3 份文件来自 Project Gutenberg Australia：
+
+- `books/22-现代经典-凯恩斯等/The-General-Theory-of-Employment-Interest-and-Money.md`
+  （凯恩斯《就业、利息和货币通论》）
+- `books/22-现代经典-凯恩斯等/An-Economic-History-of-Australia.md`
+- `books/22-现代经典-凯恩斯等/Economic-Problems-of-Socialism-in-the-USSR.md`
+
+**版权风险提示**：PGA 依澳大利亚「作者死后 50 年」规则判定这些作品在澳大利亚已进入
+公有领域，但它们在**美国等采用「作者死后 70 年」规则的司法辖区仍受版权保护**。
+例如凯恩斯逝于 1946 年，其作品在欧盟、美国等地要到 2017 年后才进入公有领域，
+而 PGA 的上架判断基于澳大利亚法。
+
+请在下载、再分发或商用前，**自行确认你所在司法辖区的版权状态**。PGA 的许可条款见：
+https://gutenberg.net.au/licence.html
+
+如你位于美国、欧盟或其他「死后 70 年」辖区，建议不要公开再分发上述 3 个文件。
+本仓库保留它们是为完整呈现凯恩斯主义脉络，使用者应自行评估风险。
+
+### 3. 中文维基文库（zh.wikisource.org）
+
+`ancient-china/` 下的 38 篇中国古代经济典籍，来自中文维基文库。这些古籍的作者
+逝世已逾千年，原文本身处于公有领域；维基文库的整理文本以 CC BY-SA 4.0 发布。
+
+维基文库的许可见：https://wikisource.org/wiki/Wikisource:Copyright
+
+### 4. 各机构官方免费页面
+
+`modern/blogs-articles/` 下的 7 份现代资源，分别来自 Mr. Money Mustache、
+Of Dollars And Data、A Wealth of Common Sense、Calculated Risk、CFA Institute、
+MIT OpenCourseWare 等。这些内容的版权归各自作者/机构所有，本仓库仅作索引与
+学习研究之用，转载与商用须遵守各站点的使用条款。
+
+### 5. 整理者撰写的摘要文字
+
+`INDEX.md` 与 `README.md` 中由整理者撰写的中文摘要、主题标签、分类体系，
+以 MIT 许可发布，可自由使用。
+
+---
+
+**免责声明**：本仓库收录的全部为历史文献，提供的是思维框架与历史视角，
+不构成任何投资建议。市场有风险，决策需独立判断。
