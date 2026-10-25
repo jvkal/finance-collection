@@ -751,8 +751,6 @@
   马克·吐温作序的康斯托克大矿脉纪实，披露银矿开采、股权内幕与西进淘金热中的暴富神话和市井百态。
 - `史料` **[Michigan's Copper Country in Early Photos](books/39-资源能源-矿业/Michigan-s-Copper-Country-in-Early-Photos-55149.md)** — B. E. Tyler  
   以早期照片记录密歇上半岛铜矿带的矿山、井口与矿区村镇，是研究美国铜业兴起的一手图像史料。
-- `错档` **[Michigan's Copper Country in Early Photos](books/39-资源能源-矿业/Michigans-Copper-Country-in-Early-Photos-75149.md)** — B. E. Tyler  
-  实际内容为 Oliver Optic 的少年环球冒险小说，与标题所指密歇里铜矿区老照片不符，疑为抓取串档，需另找版本。
 - `探险` **[The Glamour of Prospecting](books/39-资源能源-矿业/The-Glamour-of-Prospecting-70674.md)** — Fred C. Cornell  
   1920年南非军官兼探矿人在卡拉哈里荒野寻铜、金、绿宝石与钻石的六年探险札记，一战前后非洲采矿边疆实录。
 

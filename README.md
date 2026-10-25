@@ -459,7 +459,6 @@
 | [Getting Gold: A Practical Treatise for Prospectors](books/39-资源能源-矿业/Getting-Gold-A-Practical-Treatise-for-Prospectors-3679.md) | 佚名 | 306 KB |
 | [History of the Big Bonanza (Comstock Lode)](books/39-资源能源-矿业/History-of-the-Big-Bonanza-Comstock-Lode-74667.md) | 佚名 | 1052 KB |
 | [Michigan's Copper Country in Early Photos](books/39-资源能源-矿业/Michigan-s-Copper-Country-in-Early-Photos-55149.md) | 佚名 | 18 KB |
-| [Michigan's Copper Country in Early Photos](books/39-资源能源-矿业/Michigans-Copper-Country-in-Early-Photos-75149.md) | 佚名 | 457 KB |
 | [The Glamour of Prospecting](books/39-资源能源-矿业/The-Glamour-of-Prospecting-70674.md) | 佚名 | 679 KB |
 
 ### 资源能源-电力（2 本）
